@@ -1,0 +1,2 @@
+# hm_suggest_of_markdown_plugin
+秀丸エディタにmarkdownのプラグインを作ってみてはという提案用
